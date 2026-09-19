@@ -65,3 +65,9 @@ This repository is a frontend-focused academic evaluation project. The README in
 
 **Anthony Emmanuella Mmasinachi**  
 GitHub: [@Scarlet-Twinz](https://github.com/Scarlet-Twinz)
+
+## Project Links
+
+- **Repository:** https://github.com/Scarlet-Twinz/Computerized-based-evalution
+- **Author:** Anthony Emmanuella Mmasinachi
+- **GitHub:** https://github.com/Scarlet-Twinz
