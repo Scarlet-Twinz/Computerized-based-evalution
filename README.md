@@ -1,4 +1,4 @@
-# JPTS Grade Evaluation System
+#  JPTS Grade Evaluation System
 
 A browser-based academic grade evaluation interface built for JPTS Institute. The project provides a multi-page frontend for presenting grade and academic information through role-specific dashboards.
 
